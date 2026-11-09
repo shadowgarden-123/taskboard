@@ -1,0 +1,16 @@
+# Config locale (jamais commiter les vrais identifiants)
+config/db.php
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs / cache
+*.log
+
+# Fichiers temporaires
+*~
+*.tmp
+*.swp
